@@ -1,0 +1,14 @@
+{
+  "name": "wemeetnow_nodejs",
+  "version": "1.0.0",
+  "description": "alarm service who make appointment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "team98",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
